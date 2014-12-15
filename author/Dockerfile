@@ -1,2 +1,2 @@
-DOCKER-VERSION 1.0.1
+#DOCKER-VERSION 1.0.1
 FROM sergeimuller/aem-author
