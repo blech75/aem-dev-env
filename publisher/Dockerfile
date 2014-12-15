@@ -1,2 +1,2 @@
-DOCKER-VERSION 1.0.1
-FROM ggotti/aem-publisher
+#DOCKER-VERSION 1.0.1
+FROM sergeimuller/aem-publisher
