@@ -9,7 +9,7 @@ author:
   ports:
    - "4502:4502"
 dispatcher:
-  image: ggotti/aem-dispatcher
+  image: sergeimuller/aem-dispatcher
   links:
     - publisher
   ports:
