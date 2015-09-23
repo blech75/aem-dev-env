@@ -1,9 +1,9 @@
 # AEM Developer Stack
 
 This [docker-compose](https://docs.docker.com/compose/) script allows a full Adobe Experience Manager (AEM)
-6 stack to be deployed with Docker container.
+6 stack to be deployed within a Docker container.
 
-> *You must have a copy of the AEM 6 installation Media for this to work
+**NOTE:** You must have a copy of the AEM 6 installation media for this to work!
 
 ## Usage
 Copy your the installation media and license files into the author and publisher directories.
