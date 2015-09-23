@@ -14,12 +14,12 @@ The install media must be given specific names depending on location. `cq-author
 |-- docker-compose.yml
 |-- readMe.md
 |-- publisher
-|   |-- cq-publish-4503.jar [User Added]
 |   |-- Dockerfile
+|   |-- cq-publish-4503.jar [User Added]
 |   `-- license.propeties [User Added]
 `-- author
-    |-- cq-author-4502.jar [User Added]
     |-- Dockerfile
+    |-- cq-author-4502.jar [User Added]
     `-- license.propeties [User Added]
 ```
 
